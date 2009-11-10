@@ -1,0 +1,29 @@
+body, div {
+    margin:         0;
+    padding:        0;
+    font-family:    "Lucinda Grande",Geneva,serif;
+    font-size:      14px;
+    background:     #EEF;
+    color:          #333;
+}
+
+.definitions {
+    margin:         20px;
+    width:          10%;
+    min-width:      500px;
+    padding:        0;
+    border:         1px solid #000;
+}
+
+.header {
+    padding:        2px 8px;
+    background:     #666;
+    color:          #FFF;
+    border-bottom:  1px solid #000;
+}
+
+.combos {
+    padding:        4px 8px 8px 8px;
+    background:     #FFF;
+    line-height:    24px;
+}

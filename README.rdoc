@@ -1,0 +1,28 @@
+== Jesture Example
+
+This application is an example implementation of the Jesture plugin for 
+Ruby on Rails.
+
+
+== Files of Note
+
+The code base is a standard Rails project with the exception of the following 
+files:
+
+	app/controllers/examples_controller.rb
+	app/views/examples/index.html.erb
+	app/views/layouts/application.html.erb
+	app/config/jestures.rb
+	app/config/routes.rb
+	public/images/unicorn.png
+	public/javascripts/application.js
+	public/stylesheets/screen.css
+	vendor/plugins/jesture
+	
+	
+== Plugin
+
+The Jesture plugin is also hosted on github:
+
+	http://github.com/membrain/jesture
+	
